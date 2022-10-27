@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm Douglas and I'm a developer, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Douglas and I'm a developer, from Brazil</h2>
 
 ###
 
@@ -17,6 +17,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SoyDougMota/SoyDougMota/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img align="right" height="100" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"  />
 
 ###
@@ -31,4 +37,3 @@
 </div>
 
 ###
-
